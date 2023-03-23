@@ -8,3 +8,8 @@
 	url = https://github.com/hhwangbo/gainml
 	shallow = true
 	registered = true
+[submodule "kernplus"]
+	path = kernplus
+	url = https://github.com/cran/kernplus
+	shallow = true
+	registered = true
