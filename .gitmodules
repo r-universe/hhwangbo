@@ -5,6 +5,3 @@
 [submodule "gainML"]
 	path = gainML
 	url = https://github.com/hhwangbo/gainml
-[submodule "kernplus"]
-	path = kernplus
-	url = https://github.com/cran/kernplus
